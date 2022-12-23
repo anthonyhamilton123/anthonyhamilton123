@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anthony Hamilton</h1>
-<h3 align="center">Creative, detail-oriented, software engineer with a deep interest in the intersection between programming and art.</h3>
+<h1>Hi 👋, I'm Anthony Hamilton</h1>
+<h3>Creative, detail-oriented, software engineer with a deep interest in the intersection between programming and art.</h3>
 
 - 🌱 I’m currently learning **Fullstack development**
 
