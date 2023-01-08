@@ -11,32 +11,6 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1e7biY5Zna52TubsnrtjYLZ758VB17HGh/edit?usp=sharing&ouid=106855297736124441495&rtpof=true&sd=true](https://docs.google.com/document/d/1e7biY5Zna52TubsnrtjYLZ758VB17HGh/edit?usp=sharing&ouid=106855297736124441495&rtpof=true&sd=true)
 
-<!-- <h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Random Art</h3>
-        <br />
-        <a target="_blank" href="https://anthonyhamilton123.github.io/art-institute-random/">
-<!--             <img src="https://gifyu.com/image/Sv8GK" width="100%" alt="Travel App"/> -->
-<!--         </a>
-        <br />
-        
-        <p><strong>Javascript</strong> - Platform to generate a random art piece from the Art Institute's Collection!</p>
-    </td>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Random Art</h3>
-        <br />
-        <a target="_blank" href="https://anthonyhamilton123.github.io/art-institute-random/">
-<!--             <img src="https://gifyu.com/image/Sv8GK" width="100%" alt="Travel App"/> -->
-<!--         </a>
-        <br /> -->
-        
-        <p><strong>Javascript</strong> - Platform to generate a random art piece from the Art Institute's Collection!</p>
-    </td> --> -->
-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
