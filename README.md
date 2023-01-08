@@ -19,7 +19,7 @@
       <h3 align="center">Random Art</h3>
         <br />
         <a target="_blank" href="https://anthonyhamilton123.github.io/art-institute-random/">
-            <img src="https://gifyu.com/image/Sv8GK" width="100%" alt="Travel App"/>
+<!--             <img src="https://gifyu.com/image/Sv8GK" width="100%" alt="Travel App"/> -->
         </a>
         <br />
         
@@ -30,7 +30,7 @@
       <h3 align="center">Random Art</h3>
         <br />
         <a target="_blank" href="https://anthonyhamilton123.github.io/art-institute-random/">
-            <img src="https://gifyu.com/image/Sv8GK" width="100%" alt="Travel App"/>
+<!--             <img src="https://gifyu.com/image/Sv8GK" width="100%" alt="Travel App"/> -->
         </a>
         <br />
         
